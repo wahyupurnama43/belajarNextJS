@@ -1,0 +1,8 @@
+.d-flex {
+    display: flex;
+    gap: 50px;
+}
+
+.container {
+    margin: 1rem 5rem;
+}
